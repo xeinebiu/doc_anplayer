@@ -10,7 +10,7 @@ AN Player can also play media from your device when storage permission is allowe
 [![image](https://user-images.githubusercontent.com/50703441/163877026-10976ec3-44d4-4533-b229-0ae91ed89271.png)](https://play.google.com/store/apps/details?id=com.xeinebiu.anplayer)
 
 ## Wiki
-https://github.com/xeinebiu/doc_anplayer/wiki/About
+https://github.com/xeinebiu/doc_anplayer/wiki/
 
 ## Screenshots
 
